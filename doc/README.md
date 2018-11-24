@@ -102,3 +102,30 @@ $(LIB) : $(OBJS)
     # $(LIB) : $(OBJS)
       $@ $^
 
+
+
+## Generic tooling first: 
+
+Interactions with NEO blockchain (whatever node infrastructure that requires--0x). Potential examples are. For the tooling, emulate the process of NEX - the top decentralized exchange on Neo: https://github.com/neonexchange: 
+
+●  NEO based loopback connector 
+
+●  Setting up a RPC for testing on the NEO testing blockchain 
+
+●  Magic Cube verified chrome extensions 
+
+●  Neo node linking 
+
+●  Direct establishment with all the block producers 
+
+Core MCC specific infrastructure: 
+
+●  IGO contracts 
+
+●  TCR contracts 
+
+●  Governance (MIP - Magic Improvement Proposals) 
+
+●  DEX contracts 
+
+●  Open-source wallet backend 
