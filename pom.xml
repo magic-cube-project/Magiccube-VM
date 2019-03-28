@@ -19,8 +19,8 @@
     </properties>
 
     <modules>
-        <module>magiccube_unionchain</module>
-        <module>magiccube_unionchain_manager</module>
+        <module>block</module>
+        <module>manager</module>
     </modules>
 
     <dependencies>
